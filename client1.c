@@ -31,6 +31,7 @@ int main(int argc, char *argv[])
     */
 
     sockfd = socket(AF_INET, SOCK_STREAM, 0);
+    //Neel
 
     /* 
     *  Socket call will return a socket descriptor on success which is an integer 
